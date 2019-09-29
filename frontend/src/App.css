@@ -1,0 +1,71 @@
+.container{
+  width:80%;
+  margin: 0 auto;
+}
+
+nav{
+  padding: 1px;
+  background-color: #cccc;
+  border-radius: 5px;
+}
+
+nav li{
+  display: inline-block;
+
+}
+
+nav li a{
+  padding: 10px;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+nav li a:hover{
+  background-color: black;
+  color:white;
+  border-radius:4px;
+}
+
+form{
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+.form-field{
+  width: 100%;
+}
+
+.field{
+  display: block;
+  width:80%;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.btn{
+  width: 40.90%;
+  margin: 0 auto;
+  padding: 8px;
+  background-color: lightgreen;
+  color:red;
+  border:0px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.btn2{
+  background-color: red;
+  color:lightgreen;
+}
+
+.listItem{
+  background-color: #cccc;
+  margin: 10px;
+  padding: 10px;
+  list-style-type: none;
+  border-radius:5px;
+}
